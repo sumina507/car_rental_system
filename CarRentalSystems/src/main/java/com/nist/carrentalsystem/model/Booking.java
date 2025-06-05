@@ -1,5 +1,5 @@
 package com.nist.carrentalsystem.model;
-
+//booking model
 public class Booking {
    private int carId;
 	private String pickUpLocation,pickUpDate,dropOffLocation,dropDate;
